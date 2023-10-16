@@ -2,10 +2,10 @@ import React from 'react';
 import logo from './logo.svg'
 function App(){
 
-  var about='about react: it is a javascript library';
+  var about='hello to the world of javascript';
   var len_about=about.length;
   var hightlight={color:"cyan",backgroundColor:"yellow"};
-  var a = false;
+  var a = true;
   var person = null;
 
   
